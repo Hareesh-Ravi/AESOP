@@ -1,19 +1,15 @@
-# AESOP
-This is the official repository for our ICCV 2021 paper AESOP: Abstract Encoding of Stories, Objects and Pictures
+# AESOP: Abstract Encoding of Stories, Objects and Pictures
+This is the official repository for our ICCV 2021 paper "AESOP: Abstract Encoding of Stories, Objects and Pictures". 
 
-# DATASET
+# Dataset coming soon
 
-Coming soon
-
-# CODE
-
-Coming soon
+# Code Coming soon
 
 # Reference
->@InProceedings{Ravi_2018_CVPR,
->author = {Ravi, Hareesh and Kafle, Kushal and Cohen, Scott and Brandt, Jonathan and Kapadia, Mubbasir},
->title = {AESOP: Abstract Encoding of Stories, Objects and Pictures},
->booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
->month = {October},
->year = {2021}
+>@InProceedings{Ravi_2018_CVPR, <br>
+>author = {Ravi, Hareesh and Kafle, Kushal and Cohen, Scott and Brandt, Jonathan and Kapadia, Mubbasir}, <br>
+>title = {AESOP: Abstract Encoding of Stories, Objects and Pictures}, <br>
+>booktitle = {The IEEE International Conference on Computer Vision (ICCV)}, <br>
+>month = {October}, <br>
+>year = {2021} <br>
 >}
