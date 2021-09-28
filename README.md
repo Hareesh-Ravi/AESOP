@@ -20,6 +20,7 @@ This is the official repository for our ICCV 2021 paper "AESOP: Abstract Encodin
 
 
 ## Contact
-Hareesh: <br>
+Hareesh Ravi: <br>
 haravi@adobe.com <br>
 haree.24@gmail.com <br>
+https://hareesh-ravi.github.io <br>
