@@ -5,6 +5,10 @@ This is the official repository for our ICCV 2021 paper "AESOP: Abstract Encodin
 
 ## Code Coming soon
 
+## ICCV 2021 Video
+
+## ICCV 2021 Poster
+
 ## Reference
 >@InProceedings{Ravi_2018_CVPR, <br>
 >author = {Ravi, Hareesh and Kafle, Kushal and Cohen, Scott and Brandt, Jonathan and Kapadia, Mubbasir}, <br>
@@ -13,3 +17,9 @@ This is the official repository for our ICCV 2021 paper "AESOP: Abstract Encodin
 >month = {October}, <br>
 >year = {2021} <br>
 >}
+
+
+## Contact
+Hareesh:
+haravi@adobe.com
+haree.24@gmail.com
