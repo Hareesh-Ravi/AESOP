@@ -1,9 +1,14 @@
 # AESOP: Abstract Encoding of Stories, Objects and Pictures
 This is the official repository for our ICCV 2021 paper "AESOP: Abstract Encoding of Stories, Objects and Pictures". 
 
-## ICCV 2021 Video: Coming Soon!
+## ICCV 2021 Video
 
-## ICCV 2021 Poster: Coming Soon!
+The 5 minute video presentation of our work in ICCV 2021 is now available [here](https://youtu.be/ygGzY1DSSMk).
+
+## ICCV 2021 Poster
+
+Poster can be found [here]()
+Slide deck used for the video can be found [here](here)
 
 ## Dataset: Coming Soon!
 
