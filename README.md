@@ -7,8 +7,8 @@ The 5 minute video presentation of our work in ICCV 2021 is now available [here]
 
 ## ICCV 2021 Poster
 
-Poster can be found [here]()
-Slide deck used for the video can be found [here](here)
+Poster can be found [here]() <br>
+Slide deck used for the video can be found [here](here) <br>
 
 ## Dataset: Coming Soon!
 
