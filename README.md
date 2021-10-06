@@ -1,4 +1,5 @@
 # AESOP: Abstract Encoding of Stories, Objects and Pictures (ICCV 2021)
+[Hareesh Ravi](https://hareesh-ravi.github.io/) | [Kushal Kafle](https://kushalkafle.com/) | [Scott Cohen](https://research.adobe.com/person/scott-cohen/) | [Jonathan Brandt](https://research.adobe.com/person/jonathan-brandt/) | [Mubbasir Kapadia](https://ivi.cs.rutgers.edu/) <br>
 
 This is the official repository for our ICCV 2021 paper "AESOP: Abstract Encoding of Stories, Objects and Pictures". <br> 
 
