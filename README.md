@@ -6,7 +6,8 @@ This is the official repository for our ICCV 2021 paper "AESOP: Abstract Encodin
 
 ## ICCV 2021 
 
-[Video](https://youtu.be/ygGzY1DSSMk) | [Poster](./iccv2021/AESOP_ICCV2021_POSTER.pdf) | [Slides](./iccv2021/AESOP_ICCV2021_SLIDES.pdf) | [arXiv]()
+[Paper](./iccv2021/aesop_camera_ready.pdf) | [Appendix](./iccv2021/aesop_camera_ready-supp.pdf) <br>
+[Video](https://youtu.be/ygGzY1DSSMk) | [Poster](./iccv2021/AESOP_ICCV2021_POSTER.pdf) | [Slides](./iccv2021/AESOP_ICCV2021_SLIDES.pdf) | [arXiv]() <br>
 
 ## Dataset: Coming Soon!
 
