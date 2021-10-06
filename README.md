@@ -1,5 +1,7 @@
 # AESOP: Abstract Encoding of Stories, Objects and Pictures
-This is the official repository for our ICCV 2021 paper "AESOP: Abstract Encoding of Stories, Objects and Pictures". 
+This is the official repository for our ICCV 2021 paper "AESOP: Abstract Encoding of Stories, Objects and Pictures". <br> <br> <br>
+
+
 ![](./iccv2021/aesop_example.png)
 
 ## ICCV 2021 
