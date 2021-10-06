@@ -3,17 +3,7 @@ This is the official repository for our ICCV 2021 paper "AESOP: Abstract Encodin
 
 ## ICCV 2021 
 
-### Video
-
-The 5 minute video presentation of our work in ICCV 2021 is now available [here](https://youtu.be/ygGzY1DSSMk).
-
-### Poster
-
-Poster can be found ![here](./iccv2021/AESOP_ICCV2021_POSTER.pdf) <br>
-
-### Slide Deck
-
-Slide deck used for the video can be found [here](./iccv2021/AESOP_ICCV2021_SLIDES.pdf) <br>
+[Video](https://youtu.be/ygGzY1DSSMk) | [Poster](./iccv2021/AESOP_ICCV2021_POSTER.pdf) | [Slides](./iccv2021/AESOP_ICCV2021_SLIDES.pdf) | [arXiv]()
 
 ## Dataset: Coming Soon!
 
