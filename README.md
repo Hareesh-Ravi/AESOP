@@ -20,11 +20,14 @@ Visual storytelling and story comprehension are uniquely human skills that play 
 >@InProceedings{Ravi_2018_CVPR, <br>
 >author = {Ravi, Hareesh and Kafle, Kushal and Cohen, Scott and Brandt, Jonathan and Kapadia, Mubbasir}, <br>
 >title = {AESOP: Abstract Encoding of Stories, Objects and Pictures}, <br>
->booktitle = {The IEEE International Conference on Computer Vision (ICCV)}, <br>
+>booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}, <br>
 >month = {October}, <br>
->year = {2021} <br>
+>year = {2021}, <br>
+>pages = {2052-2063} <br>
 >}
 
+## Acknowledgement
+The web interface for data acquisition and most of the clipart objects are from [Abstract Scenes](https://github.com/GT-Vision-Lab/abstract_scenes_v002) dataset.
 
 ## Contact
 Hareesh Ravi: <br>
