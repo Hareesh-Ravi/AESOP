@@ -10,7 +10,7 @@ Visual storytelling and story comprehension are uniquely human skills that play 
 
 ## ICCV 2021 Materials
 
-[Paper](./iccv2021/aesop_camera_ready.pdf) | [Appendix](./iccv2021/aesop_camera_ready-supp.pdf) | [Video Presentation](https://youtu.be/ygGzY1DSSMk) | [Poster](./iccv2021/AESOP_ICCV2021_POSTER.pdf) | [Video Slides](./iccv2021/AESOP_ICCV2021_SLIDES.pdf) | [arXiv]() <br>
+[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ravi_AESOP_Abstract_Encoding_of_Stories_Objects_and_Pictures_ICCV_2021_paper.pdf) | [Appendix](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Ravi_AESOP_Abstract_Encoding_ICCV_2021_supplemental.pdf) | [Video Presentation](https://youtu.be/ygGzY1DSSMk) | [Poster](./iccv2021/AESOP_ICCV2021_POSTER.pdf) | [Video Slides](./iccv2021/AESOP_ICCV2021_SLIDES.pdf) | [arXiv]() <br>
 
 ## Dataset: Coming Soon!
 
