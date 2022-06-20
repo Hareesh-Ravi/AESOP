@@ -1,4 +1,7 @@
 # AESOP: Abstract Encoding of Stories, Objects and Pictures (ICCV 2021)
+
+Visit the following repo [https://github.com/adobe-research/aesop](https://github.com/adobe-research/aesop) that hosts the data. 
+
 [Hareesh Ravi](https://hareesh-ravi.github.io/) | [Kushal Kafle](https://kushalkafle.com/) | [Scott Cohen](https://research.adobe.com/person/scott-cohen/) | [Jonathan Brandt](https://research.adobe.com/person/jonathan-brandt/) | [Mubbasir Kapadia](https://ivi.cs.rutgers.edu/) <br>
 
 This is the official repository for our ICCV 2021 paper "AESOP: Abstract Encoding of Stories, Objects and Pictures". <br> 
@@ -12,9 +15,9 @@ Visual storytelling and story comprehension are uniquely human skills that play 
 
 [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ravi_AESOP_Abstract_Encoding_of_Stories_Objects_and_Pictures_ICCV_2021_paper.pdf) | [Appendix](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Ravi_AESOP_Abstract_Encoding_ICCV_2021_supplemental.pdf) | [Video Presentation](https://youtu.be/ygGzY1DSSMk) | [Poster](./iccv2021/AESOP_ICCV2021_POSTER.pdf) | [Video Slides](./iccv2021/AESOP_ICCV2021_SLIDES.pdf) | [arXiv]() <br>
 
-## Dataset: Coming Soon!
+## Dataset:
 
-## Code: Coming Soon!
+Please visit [https://github.com/adobe-research/aesop](https://github.com/adobe-research/aesop) for the actual data and details.
 
 ## Reference
 >@InProceedings{Ravi_2018_CVPR, <br>
@@ -25,9 +28,6 @@ Visual storytelling and story comprehension are uniquely human skills that play 
 >year = {2021}, <br>
 >pages = {2052-2063} <br>
 >}
-
-## Acknowledgement
-The web interface for data acquisition and most of the clipart objects are from [Abstract Scenes](https://github.com/GT-Vision-Lab/abstract_scenes_v002) dataset.
 
 ## Contact
 Hareesh Ravi: <br>
