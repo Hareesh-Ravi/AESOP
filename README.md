@@ -1,6 +1,6 @@
 # AESOP: Abstract Encoding of Stories, Objects and Pictures (ICCV 2021)
 
-Visit the following repo [https://github.com/adobe-research/aesop](https://github.com/adobe-research/aesop) that hosts the data. 
+## Visit the following repo [https://github.com/adobe-research/aesop](https://github.com/adobe-research/aesop) that hosts the data. 
 
 [Hareesh Ravi](https://hareesh-ravi.github.io/) | [Kushal Kafle](https://kushalkafle.com/) | [Scott Cohen](https://research.adobe.com/person/scott-cohen/) | [Jonathan Brandt](https://research.adobe.com/person/jonathan-brandt/) | [Mubbasir Kapadia](https://ivi.cs.rutgers.edu/) <br>
 
